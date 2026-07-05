@@ -1,4 +1,4 @@
-# 💰 Smart Expense Tracker
+ # 💰 Smart Expense Tracker (Python CLI Application)
 
 A Python-based command-line application to manage daily expenses efficiently.
 

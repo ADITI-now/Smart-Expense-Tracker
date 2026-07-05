@@ -1,0 +1,10 @@
+franky,120.0,food,june
+franky,30.0,food,june
+bags,500.0,travel,june
+franky,50.0,food,june
+petrol,500.0,travel,june
+franky,50.0,food,june
+bus,600.0,travel,june
+franky,50.0,food,june
+petrol,300.0,travel,june
+cloth,600.0,shopping,june
